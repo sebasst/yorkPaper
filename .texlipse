@@ -1,0 +1,13 @@
+#TeXlipse project settings
+#Fri Jul 10 13:16:54 BST 2015
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=cloudmde15.tex
+outputFile=cloudmde15.pdf
+langSpell=en
+markDer=true
+srcDir=
